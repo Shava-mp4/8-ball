@@ -1,0 +1,40 @@
+html {
+  background: url("imgs/photo-1506318137071-a8e063b4bec0.jfif") no-repeat;
+  background-size: cover;
+}
+
+body {
+  color: rgb(235, 235, 235);
+  border-radius: 15px;
+  background-color: rgba(111, 102, 126, 0.5);
+  width: 600px;
+  height: 700px;
+  padding: 25px 90px;
+  margin: 50px auto;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.font {
+  font-weight: 600;
+}
+
+img {
+  width: 400px;
+  margin: auto 100px;
+}
+
+button {
+  background-color: rgb(184, 184, 184, 0);
+  border: 0px;
+  cursor: pointer;
+}
+
+input {
+  color: rgb(13, 143, 13);
+  width: 600px;
+  height: 20px;
+}
+
+#response {
+  color: rgb(77, 201, 77);
+}
